@@ -19,5 +19,73 @@ body{
 .bg-primary{
     background-color: #223A66!important;
 }
+.icofont-support-faq, .icofont-location-pin{
+    padding-right: 10px;
+}
+.topbaraddressfix{
+    padding-right: 5%;
+}
+.herosection{
+    background-image: url('/images/bg/slider-bg-1.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.heroredline{
+    width: 3%;
+    height:5px;
+    background-color:red;
+    
+}
+.heroparagraph{
+    line-height: 27px;
+}
+.rounded-btn{
+    border-radius: 50px;
+}
+.icofont-simple-right{
+    border-left:1px solid rgba(255, 255, 255, 0.253);
+}
+.threesections{
+    background-color: red;
+    height: 300px;
+}
+.icofont-surgeon-alt{
+    color: green;
+    width: 120px!important;
+}
+.firstsection{
+    
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+    .threesections{
+        width: 80%;
+    }
+}
