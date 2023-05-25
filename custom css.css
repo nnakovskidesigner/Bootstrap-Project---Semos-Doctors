@@ -330,6 +330,14 @@ body{
     border-radius: 50px;
     transition: .3s;
   }
+  .btn-round-full {
+    background-color: red;
+    border-radius: 50px;
+  }
+  .emailfooter{
+    text-decoration: none!important;
+    font-size: 20px;
+  }
 
   
 
