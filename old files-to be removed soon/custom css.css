@@ -11,6 +11,7 @@ font-family: 'Roboto', sans-serif; */
 
 body{
     font-family: 'Exo', sans-serif;
+    line-height: 1.6!important;
 }
 
 .blue-topbar{
@@ -133,6 +134,9 @@ body{
     background-blend-mode: multiply;
     opacity: 0.9;
 
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'exo';
 }
 .numbersheading{
     font-size: 4rem!important;
@@ -286,7 +290,13 @@ body{
     border-radius: 100%;
     padding-top: 12px;
   }
-  
+  .navigation .dropdown-menu {
+    padding: 0px;
+    border: 0px;
+    border-top: 5px solid #e12454!important;
+    background: #fff;
+    border-radius: 0px;
+  }
   .widget-contact h6 {
     font-weight: 500;
     margin-bottom: 18px;
@@ -340,6 +350,7 @@ body{
   }
 
   
+/* new version of css */
 
 
 
